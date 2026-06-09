@@ -15,7 +15,7 @@ An end-to-end machine learning pipeline that predicts Dubai property transaction
 ## Dataset
 The dataset is sourced from [DubaiPulse](https://www.dubaipulse.gov.ae) — Dubai Land Department Real Estate Transactions.
 
-📁 **Download transactions.csv here:** [Google Drive Link — to be added]
+📁 **Download transactions.csv here:** https://drive.google.com/file/d/1vXX4OD6jubIUnrRKwpQgKkV5wfsz19pv/view?usp=sharing
 
 After downloading, place the file in the `data/` folder: 
 data/transactions.csv
