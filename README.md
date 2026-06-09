@@ -1,6 +1,3 @@
-# csci323-dubai-realestate-ai
-AI-powered Dubai real estate transaction price prediction using Machine Learning — CSCI323 Modern AI Project | University of Wollongong Dubai
-
 # Dubai Real Estate Transaction Price Prediction
 ### CSCI323 — Modern Artificial Intelligence | Spring 2026
 **University of Wollongong Dubai (UOWD)**
@@ -13,12 +10,16 @@ An end-to-end machine learning pipeline that predicts Dubai property transaction
 ---
 
 ## Dataset
-The dataset is sourced from [DubaiPulse](https://www.dubaipulse.gov.ae) — Dubai Land Department Real Estate Transactions.
+The dataset is sourced from [Dubai Data](https://data.dubai/en/) — Dubai Land Department Real Estate Transactions.
 
-📁 **Download transactions.csv here:** https://drive.google.com/file/d/1vXX4OD6jubIUnrRKwpQgKkV5wfsz19pv/view?usp=sharing
+| File | Description | Link |
+|------|-------------|------|
+| `transactions.csv` | Raw dataset from Dubai Data Portal | https://drive.google.com/file/d/1vXX4OD6jubIUnrRKwpQgKkV5wfsz19pv/view?usp=sharing |
+| `cleaned_data.csv` | Cleaned output from Notebook 01 | https://drive.google.com/file/d/1KN0RTqBPXXNjGl5bLwLsKFAQPkIP1K7S/view?usp=sharing |
 
-After downloading, place the file in the `data/` folder: 
-data/transactions.csv
+> **Instructions:** Download the file you need and place it in the `data/` folder before running any notebook.
+> - Anybody starting from scratch → download `transactions.csv`
+> - Members 2-5 ready to begin their notebook → download `cleaned_data.csv`
 
 ---
 
