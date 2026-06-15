@@ -44,7 +44,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras-tuner 
 ## Team
 | Member | Role |
 |--------|------|
-| Amir Hossein Torkaman | Data Lead, EDA, GitHub Owner |
+| Amir Hossein Torkaman | Data Lead, EDA, GitHub Repo |
 | Member 2 | Preprocessing + Baseline Models |
 | Member 3 | Random Forest |
 | Member 4 | ANN + Model Comparison |
