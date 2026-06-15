@@ -48,4 +48,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras-tuner 
 | Member 2 | Preprocessing + Baseline Models |
 | Member 3 | Random Forest |
 | Member 4 | ANN + Model Comparison |
-| Member 5 | Clustering + Conclusion |
+| Samaira Alam | Clustering + Conclusion |
