@@ -45,7 +45,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras-tuner 
 | Member | Role |
 |--------|------|
 | Amir Hossein Torkaman | Data Lead, EDA, GitHub Repo |
-| Member 2 | Preprocessing + Baseline Models |
-| Member 3 | Random Forest |
-| Member 4 | ANN + Model Comparison |
+| Kevin Carlton | Preprocessing + Baseline Models |
+| Muhammad Asim | Random Forest |
+| Giselle Telles | ANN + Model Comparison |
 | Samaira Alam | Clustering + Conclusion |
